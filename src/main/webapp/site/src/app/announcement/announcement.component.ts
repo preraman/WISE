@@ -26,7 +26,7 @@ export class AnnouncementComponent implements OnInit {
   @Output('dismiss')
   doDismiss: EventEmitter<any> = new EventEmitter<any>();
 
-  show: boolean = true;
+  show: boolean = false;
 
   constructor() { }
 
