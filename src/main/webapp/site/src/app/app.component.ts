@@ -30,20 +30,20 @@ export class AppComponent {
               media: MediaObserver,
               public dialog: MatDialog) {
     iconRegistry.addSvgIcon(
-      'ki-elicit',
-      sanitizer.bypassSecurityTrustResourceUrl('assets/img/icons/ki-elicit.svg')
+      'eco',
+      sanitizer.bypassSecurityTrustResourceUrl('assets/img/icons/eco.svg')
     );
     iconRegistry.addSvgIcon(
-      'ki-add',
-      sanitizer.bypassSecurityTrustResourceUrl('assets/img/icons/ki-add.svg')
+      'tech',
+      sanitizer.bypassSecurityTrustResourceUrl('assets/img/icons/tech.svg')
     );
     iconRegistry.addSvgIcon(
-      'ki-distinguish',
-      sanitizer.bypassSecurityTrustResourceUrl('assets/img/icons/ki-distinguish.svg')
+      'group',
+      sanitizer.bypassSecurityTrustResourceUrl('assets/img/icons/group.svg')
     );
     iconRegistry.addSvgIcon(
-      'ki-connect',
-      sanitizer.bypassSecurityTrustResourceUrl('assets/img/icons/ki-connect.svg')
+      'share',
+      sanitizer.bypassSecurityTrustResourceUrl('assets/img/icons/share.svg')
     );
     iconRegistry.addSvgIcon(
       'facebook',
