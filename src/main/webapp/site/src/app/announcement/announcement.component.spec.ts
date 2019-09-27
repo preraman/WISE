@@ -2,11 +2,13 @@ import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 import { NO_ERRORS_SCHEMA } from "@angular/core";
 import { AnnouncementComponent } from './announcement.component';
 import { configureTestSuite } from 'ng-bullet';
+import { ExpectedConditions } from 'protractor';
 
 describe('AnnouncementComponent', () => {
   let component: AnnouncementComponent;
   let fixture: ComponentFixture<AnnouncementComponent>;
 
+  
   configureTestSuite(() => {
     TestBed.configureTestingModule({
       declarations: [ AnnouncementComponent ],
@@ -28,11 +30,15 @@ describe('AnnouncementComponent', () => {
 
   it('should show the message', () => {
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.textContent).toContain('This is an announcement.');
+    if (compiled.show) {
+      expect(compiled.textContent).toContain('This is an announcement.');
+    }
   });
 
   it('should show the action', () => {
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.textContent).toContain('Do something');
+    if (compiled.show) {
+      expect(compiled.textContent).toContain('Do something');
+    } 
   });
 });
