@@ -8,7 +8,7 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>WISE Classroom Monitor</title>
         <base href="${contextPath}/" target="_blank">
-        <meta name="description" content="WISE Classroom Monitor">
+        <meta name="description" content="SCORE Classroom Monitor">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <%@ include file="favicon.jsp"%>
         <script src="${contextPath}/wise5/lib/sockjs/sockjs.min.js"></script>
