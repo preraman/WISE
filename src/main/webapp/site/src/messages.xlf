@@ -2596,11 +2596,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
-          <context context-type="linenumber">233</context>
+          <context context-type="linenumber">229</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/student-faq/student-faq.component.html</context>
-          <context context-type="linenumber">83</context>
+          <context context-type="linenumber">79</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/help-home/help-home.component.html</context>
@@ -2612,9 +2612,9 @@
           <context context-type="sourcefile">app/help/getting-started/getting-started.component.html</context>
           <context context-type="linenumber">6</context>
         </context-group>
-      </trans-unit><trans-unit id="d38483514cb4d3dfdb109d7a3381dee14b11cfc1" datatype="html">
+      </trans-unit><trans-unit id="461c2faf433536b8eb14e2354ae4fa1bc4f3bcf8" datatype="html">
         <source>
-    All users must create their own account. Teachers must create a teacher account and students must create a student account. Users can create an account by going to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>WISE Home Page<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> and clicking on the <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a&gt;"/>Register<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> link at the upper right of the screen.
+    All users must create their own account. Teachers must create a teacher account and students must create a student account. Users can create an account by going to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>SCORE Home Page<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> and clicking on the <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a&gt;"/>Register<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> link at the upper right of the screen.
   </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/getting-started/getting-started.component.html</context>
@@ -2626,8 +2626,8 @@
           <context context-type="sourcefile">app/help/getting-started/getting-started.component.html</context>
           <context context-type="linenumber">10</context>
         </context-group>
-      </trans-unit><trans-unit id="2964f6a797ee681e920953a80029f041f0edc7bf" datatype="html">
-        <source>Go to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>WISE Home Page<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
+      </trans-unit><trans-unit id="c8679f8f9a98d0341c5de08cc1cd254781c07d11" datatype="html">
+        <source>Go to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>SCORE Home Page<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/getting-started/getting-started.component.html</context>
           <context context-type="linenumber">12</context>
@@ -2686,14 +2686,14 @@
           <context context-type="sourcefile">app/help/student-faq/student-faq.component.html</context>
           <context context-type="linenumber">17</context>
         </context-group>
-      </trans-unit><trans-unit id="905ffa00030446fe94ad48b0690cf4c703ddf061" datatype="html">
-        <source>Using a WISE Unit</source>
+      </trans-unit><trans-unit id="2e6bc8cdf2172e5b2a443b4f18336291bd1c89ba" datatype="html">
+        <source>Using a SCORE Unit</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/getting-started/getting-started.component.html</context>
           <context context-type="linenumber">20</context>
         </context-group>
-      </trans-unit><trans-unit id="90ec3aae8236091afd31bd0b64d9ddc6f8cdd59a" datatype="html">
-        <source>To use a WISE unit with your class, you must first choose a unit to use and then set up a &quot;Run&quot; of that unit.</source>
+      </trans-unit><trans-unit id="005bacf72af318bb8b3d49388d79474e325e4418" datatype="html">
+        <source>To use a SCORE unit with your class, you must first choose a unit to use and then set up a &quot;Run&quot; of that unit.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/getting-started/getting-started.component.html</context>
           <context context-type="linenumber">21</context>
@@ -2704,8 +2704,8 @@
           <context context-type="sourcefile">app/help/getting-started/getting-started.component.html</context>
           <context context-type="linenumber">22</context>
         </context-group>
-      </trans-unit><trans-unit id="e9a22cb12f2c9f5db14a01d04ae6d9e829cd5b48" datatype="html">
-        <source>Sign in to WISE with your teacher account.</source>
+      </trans-unit><trans-unit id="290ad942f70e67e281be8d4edd17d61f53841d35" datatype="html">
+        <source>Sign in to SCORE with your teacher account.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/getting-started/getting-started.component.html</context>
           <context context-type="linenumber">24</context>
@@ -2714,8 +2714,8 @@
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">25</context>
         </context-group>
-      </trans-unit><trans-unit id="9d2a72632d6e73065adbe8ea78a680e16c07619c" datatype="html">
-        <source>Click the &quot;Browse WISE Units&quot; tab.</source>
+      </trans-unit><trans-unit id="7022ee4d74810f4afb48db3cbb0d2394186f8a32" datatype="html">
+        <source>Click the &quot;Browse SCORE Units&quot; tab.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/getting-started/getting-started.component.html</context>
           <context context-type="linenumber">25</context>
@@ -2826,7 +2826,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/student-faq/student-faq.component.html</context>
-          <context context-type="linenumber">92</context>
+          <context context-type="linenumber">88</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/help-home/help-home.component.html</context>
@@ -2840,7 +2840,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/student-faq/student-faq.component.html</context>
-          <context context-type="linenumber">94</context>
+          <context context-type="linenumber">90</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/help-home/help-home.component.html</context>
@@ -2854,7 +2854,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
-          <context context-type="linenumber">242</context>
+          <context context-type="linenumber">238</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/help-home/help-home.component.html</context>
@@ -2868,7 +2868,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
-          <context context-type="linenumber">244</context>
+          <context context-type="linenumber">240</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/help-home/help-home.component.html</context>
@@ -2988,20 +2988,20 @@
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">23</context>
         </context-group>
-      </trans-unit><trans-unit id="3576f8940d17f62b1c8f4fbed932067ac0fdb673" datatype="html">
-        <source>Should I register my students for WISE or have them do it themselves?</source>
+      </trans-unit><trans-unit id="0280430571df8b618837b798a7f8320ec4803198" datatype="html">
+        <source>Should I register my students for SCORE or have them do it themselves?</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">39</context>
         </context-group>
-      </trans-unit><trans-unit id="2c8b400fdc35436d28c9cccdaeb20ce10a03c8d7" datatype="html">
-        <source>WISE makes student registration simple and intuitive -- direct your students to the register page by having them go to the WISE home page and clicking the &quot;Register&quot; link at the upper right. They should be able to register in 10 minutes or less. However, you can also opt to pre-register all of your students and provide them with a copy of their username/password on their first day in the project run.</source>
+      </trans-unit><trans-unit id="40fe60a2dda4c25e235e6e4b8487dedd24015e14" datatype="html">
+        <source>SCORE makes student registration simple and intuitive -- direct your students to the register page by having them go to the SCORE home page and clicking the &quot;Register&quot; link at the upper right. They should be able to register in 10 minutes or less. However, you can also opt to pre-register all of your students and provide them with a copy of their username/password on their first day in the project run.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">40</context>
         </context-group>
-      </trans-unit><trans-unit id="90a07f702eb512ee62bff7940263f760a401a538" datatype="html">
-        <source>Once a student has created a WISE account they should never need to create another one.</source>
+      </trans-unit><trans-unit id="7ab1299537c7049e5f0ef977f5d8f01d02c6cb40" datatype="html">
+        <source>Once a student has created a SCORE account they should never need to create another one.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">42</context>
@@ -3024,8 +3024,8 @@
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">47</context>
         </context-group>
-      </trans-unit><trans-unit id="427421b70d77408e21b0462e665b63cb5765f06a" datatype="html">
-        <source>Second, encourage the students to solve the problem themselves. Tell them to go to the WISE home page, click the Lost username/password link, and click the Student button. If the student can answer their security question (created at registration) they can change their password.</source>
+      </trans-unit><trans-unit id="99c306c59aba78d596a91842355247dfe77244d1" datatype="html">
+        <source>Second, encourage the students to solve the problem themselves. Tell them to go to the SCORE home page, click the Lost username/password link, and click the Student button. If the student can answer their security question (created at registration) they can change their password.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">48</context>
@@ -3042,8 +3042,8 @@
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">51</context>
         </context-group>
-      </trans-unit><trans-unit id="cb4e82ff9c49f15fee75a56ccd4bb3feccbcb850" datatype="html">
-        <source>Sign into WISE with your teacher account.</source>
+      </trans-unit><trans-unit id="56b0d8aef3242b423cb8da467357768447f59f82" datatype="html">
+        <source>Sign into SCORE with your teacher account.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">53</context>
@@ -3306,8 +3306,8 @@
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">105</context>
         </context-group>
-      </trans-unit><trans-unit id="3024ecf162acff3ec72fe6d47aee6bf2ea097db3" datatype="html">
-        <source>Where do I find out about lesson plans and standards for WISE projects?</source>
+      </trans-unit><trans-unit id="c7cde54e60650e1b12e06ddd96033e6a7a589249" datatype="html">
+        <source>Where do I find out about lesson plans and standards for SCORE projects?</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">107</context>
@@ -3336,14 +3336,14 @@
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">114</context>
         </context-group>
-      </trans-unit><trans-unit id="0caa9631c30a1085708f8f7ac6f6b207af99c1b9" datatype="html">
-        <source>How do I fit a WISE project into my curriculum?</source>
+      </trans-unit><trans-unit id="ac12309b93e944ca24132ec6bf2869149e638da5" datatype="html">
+        <source>How do I fit a SCORE project into my curriculum?</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">116</context>
         </context-group>
-      </trans-unit><trans-unit id="8067ba3441dfe3495b289859b58d59b28fed36f0" datatype="html">
-        <source>In general students will benefit from some pre-teaching of the topic covered in the project. It is really up to the teacher to decide where it best fits to support student learning. Many teachers use a WISE project as a capstone activity while others integrate it into their curriculum at a midpoint. Some teachers elect to use WISE projects an introductory activity for a unit, or as a summation activity for a unit.</source>
+      </trans-unit><trans-unit id="6d5b18f20fed7c70304c8611eb0c20a0a16396b8" datatype="html">
+        <source>In general students will benefit from some pre-teaching of the topic covered in the project. It is really up to the teacher to decide where it best fits to support student learning. Many teachers use a SCORE project as a capstone activity while others integrate it into their curriculum at a midpoint. Some teachers elect to use SCORE projects an introductory activity for a unit, or as a summation activity for a unit.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">118</context>
@@ -3410,8 +3410,8 @@
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">138</context>
         </context-group>
-      </trans-unit><trans-unit id="e42c6ee16c0475e7cd0a418736dd8da66fdde98f" datatype="html">
-        <source>WISE is a web-based learning environments, so students can sign in from a computer at school or at home. This means that students can complete the project from any home or community based computer, per the teacher&apos;s discretion.</source>
+      </trans-unit><trans-unit id="044cf51bc6cc297075ebd9745d251db940ac0a1a" datatype="html">
+        <source>SCORE is a web-based learning environments, so students can sign in from a computer at school or at home. This means that students can complete the project from any home or community based computer, per the teacher&apos;s discretion.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">140</context>
@@ -3446,8 +3446,8 @@
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">153</context>
         </context-group>
-      </trans-unit><trans-unit id="6f1b5176d1ac687e91e947309867726178ea6075" datatype="html">
-        <source>The student must sign into WISE with their student account.</source>
+      </trans-unit><trans-unit id="7ad73491083d9f0047a4e6b642f7b64ee90f76db" datatype="html">
+        <source>The student must sign into SCORE with their student account.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">155</context>
@@ -3476,8 +3476,8 @@
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">160</context>
         </context-group>
-      </trans-unit><trans-unit id="8ad1ae10ce55dbadbc0d79c5df1e0e3236a443ce" datatype="html">
-        <source>The following link will give you a sample rubric for grading a step in the Mitosis and Cell Processes project. The rubric is based on our TELS Center research on how students integrate their knowledge of complex science concepts. We hope that it can give you a start in developing your own rubrics for the notes and steps you plan to grade.</source>
+      </trans-unit><trans-unit id="be09fbd2fdf433b92092e51ef9ddd8372aba5d3a" datatype="html">
+        <source>The following link will give you a sample rubric for grading a step in the Mitosis and Cell Processes project.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">162</context>
@@ -3548,8 +3548,8 @@
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">185</context>
         </context-group>
-      </trans-unit><trans-unit id="c7a7fe783c37fe2f45e8cdee103e70f13c5c7a7e" datatype="html">
-        <source>The WISE web site won&apos;t load on my web browser. What do I do?</source>
+      </trans-unit><trans-unit id="308fa332ca5a7b98ba0d6431a835f348551b3503" datatype="html">
+        <source>The SCORE web site won&apos;t load on my web browser. What do I do?</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">189</context>
@@ -3558,8 +3558,8 @@
           <context context-type="sourcefile">app/help/student-faq/student-faq.component.html</context>
           <context context-type="linenumber">44</context>
         </context-group>
-      </trans-unit><trans-unit id="af71879ff4b2c7e9d79167d67a8558c4fd64ee09" datatype="html">
-        <source>You can try <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>clearing your browser cache<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> and then reloading the WISE web site.</source>
+      </trans-unit><trans-unit id="d607b826637d12542464036bc9e9daf0bfee8d7f" datatype="html">
+        <source>You can try <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>clearing your browser cache<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> and then reloading the SCORE web site.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">191</context>
@@ -3578,8 +3578,8 @@
           <context context-type="sourcefile">app/help/student-faq/student-faq.component.html</context>
           <context context-type="linenumber">47</context>
         </context-group>
-      </trans-unit><trans-unit id="47fdad3268de5bb44d62ef7bf2e4b8e39c432588" datatype="html">
-        <source>How many computers do I need to run WISE?</source>
+      </trans-unit><trans-unit id="b53afc9d2c14af60e55d98499df4934bb8ba2f7d" datatype="html">
+        <source>How many computers do I need to run SCORE?</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">194</context>
@@ -3610,8 +3610,8 @@
           <context context-type="sourcefile">app/help/student-faq/student-faq.component.html</context>
           <context context-type="linenumber">51</context>
         </context-group>
-      </trans-unit><trans-unit id="df6ec49a683a1c798d509516f3b73dd1befb6a62" datatype="html">
-        <source>Can I use WISE in another language?</source>
+      </trans-unit><trans-unit id="820bf71a323f93efdbc53fb21ce87876ea4b8c3f" datatype="html">
+        <source>Can I use SCORE in another language?</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">203</context>
@@ -3690,35 +3690,15 @@
           <context context-type="sourcefile">app/help/student-faq/student-faq.component.html</context>
           <context context-type="linenumber">62</context>
         </context-group>
-      </trans-unit><trans-unit id="b2be95339aa5b283ab35ea9703f365133eae1b67" datatype="html">
-        <source>Who do I contact when I have a problem I can&apos;t solve?</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
-          <context context-type="linenumber">214</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/help/student-faq/student-faq.component.html</context>
-          <context context-type="linenumber">64</context>
-        </context-group>
-      </trans-unit><trans-unit id="f0bf08ca7362c92db6be004201f0d9e142a61532" datatype="html">
-        <source>The <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Contact WISE form<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> will send an email to the WISE technology group. You can find a link to the form at the bottom of the home page. Be sure to include as much information as you can about the problem. We will respond as quickly as we can.</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
-          <context context-type="linenumber">216</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/help/student-faq/student-faq.component.html</context>
-          <context context-type="linenumber">66</context>
-        </context-group>
       </trans-unit><trans-unit id="0b66532dc98434ee7c1a4b609e3f3a7d49c23d60" datatype="html">
         <source>Information for new users.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/teacher-faq/teacher-faq.component.html</context>
-          <context context-type="linenumber">235</context>
+          <context context-type="linenumber">231</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/student-faq/student-faq.component.html</context>
-          <context context-type="linenumber">85</context>
+          <context context-type="linenumber">81</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/help-home/help-home.component.html</context>
@@ -3772,8 +3752,8 @@
           <context context-type="sourcefile">app/help/student-faq/student-faq.component.html</context>
           <context context-type="linenumber">28</context>
         </context-group>
-      </trans-unit><trans-unit id="6ad63a4282b7f50738ef1f9293cc8d44bb81a3b0" datatype="html">
-        <source>Log into WISE with your student account.</source>
+      </trans-unit><trans-unit id="d9c7e33025a8d6a32d9f193d6fd42be4f3bd0d4a" datatype="html">
+        <source>Log into SCORE with your student account.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/student-faq/student-faq.component.html</context>
           <context context-type="linenumber">30</context>
@@ -3826,8 +3806,8 @@
           <context context-type="sourcefile">app/help/student-faq/student-faq.component.html</context>
           <context context-type="linenumber">40</context>
         </context-group>
-      </trans-unit><trans-unit id="2c78c51700ea174231b7fb84a2d51a96f5b5ed78" datatype="html">
-        <source>Sign into WISE with your student account.</source>
+      </trans-unit><trans-unit id="953bdb846781d152718dc1073a2afc59757e251c" datatype="html">
+        <source>Sign into SCORE with your student account.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/help/student-faq/student-faq.component.html</context>
           <context context-type="linenumber">56</context>
